@@ -1,3 +1,6 @@
 def solution 1:
     hahahhahaaha
-    #no nested func def
+
+
+    def nested:
+        hadbajsdnjndajsdnad
